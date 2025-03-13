@@ -1,0 +1,1758 @@
+{
+  "meta": {
+    "maxDepth": 3,
+    "name": "SCAA 2016",
+    "type": "coffee",
+    "faults": false,
+    "author": "SCAA",
+    "date": "2016",
+    "languages": [
+      "en"
+    ],
+    "source": "http://www.scaa.org/?page=resources&d=scaa-flavor-wheel",
+    "notes": [
+      "It is not truly global. It is not finished"
+    ]
+  },
+  "data": [
+    {
+      "name": "Fruity",
+      "colour": "#DA1D23",
+      "definition": "A sweet, floral, aromatic blend of a variety of ripe fruits.",
+      "references": [
+        {
+          "reference": "Juicy Juice 100% Juice Kiwi Strawberry",
+          "flavor": 4,
+          "flavor_preparation": "Serve juice in a 1-ounce cup. Cover with a plastic lid",
+          "aroma": 3,
+          "aroma_preparation": "Mix 1 part water and 1 part juice. Place ¼ cup of mixture in a medium snifter. Cover."
+        },
+        {
+          "reference": "Le Nez du Café n.17 “apple”",
+          "aroma": 7,
+          "aroma_preparation": "Place 1 drop of essence on a cotton ball in a large snifter. Cover."
+        }
+      ],
+      "children": [
+        {
+          "name": "Berry",
+          "colour": "#DD4C51",
+          "definition": "The sweet, sour, floral, sometimes heavy aromatic associated with a variety of berries such as blackberries, raspberries, blueberries, or strawberries",
+          "references": [
+            {
+              "reference": "Private Selection Triple Berry Preserves",
+              "aroma": 10,
+              "aroma_preparation": "Place 1 teaspoon of jelly in a medium snifter. Cover",
+              "flavor": 9,
+              "flavor_preparation": "Place 1 teaspoon in a 1-ounce cup. Cover with a plastic lid."
+            },
+            {
+              "reference": "Welch’s Unfiltered 100% Juice Blackberry",
+              "flavor": 7.5,
+              "flavor_preparation": "Serve juice in a 1-ounce cup. Cover with a plastic lid."
+            }
+          ],
+          "children": [
+            {
+              "name": "Blackberry",
+              "colour": "#3E0317",
+              "definition": "The sweet, dark, fruity, floral, slightly sour, somewhat woody aromatic associated with blackberries.",
+              "references": [
+                {
+                  "reference": "Smucker’s Blackberry Jam",
+                  "flavor": 5.5,
+                  "flavor_preparation": "Serve jam in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Raspberry",
+              "colour": "#E52968",
+              "icon": "raspberry",
+              "definition": "The lightly sweet, fruity, floral, slightly sour and musty aromatic associated with raspberries.",
+              "references": [
+                {
+                  "reference": "Jell-O Raspberry (dry gelatin powder)",
+                  "flavor": 6.5,
+                  "flavor_preparation": "Served dry powder in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Blueberry",
+              "colour": "#6469B0",
+              "icon": "blueberry",
+              "definition": "The slightly dark, fruity, sweet, slightly sour, musty, dusty, floral aromatic associated with blueberry.",
+              "references": [
+                {
+                  "reference": "Oregon Fruit Products Blueberries in Light Syrup (canned)",
+                  "aroma": 6.5,
+                  "aroma_preparation": "Put 1 teaspoon of syrup from canned blueberries in a medium snifter. Cover.",
+                  "flavor": 6,
+                  "flavor_preparation": "Serve blueberries in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Strawberry",
+              "colour": "#EF2D36",
+              "image": "strawberry.png",
+              "definition": "The somewhat sweet, slightly sour, floral, fruity, frequently winey aromatic associated with strawberry.",
+              "references": [
+                {
+                  "reference": "Dole Whole Strawberries All Natural",
+                  "aroma": 13,
+                  "aroma_preparation": "Thaw strawberries in refrigerator overnight. Serve at room temperature in 3.25-ounce cup. Cover with a plastic lid.",
+                  "flavor": 6,
+                  "flavor_preparation": "Thaw strawberries in refrigerator overnight. Serve at room temperature in 3.25-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dried fruit",
+          "colour": "#C94A44",
+          "definition": "An aromatic impression of dark fruit that is sweet and slightly brown and is associated with dried plums and raisins.",
+          "references": [
+            {
+              "reference": "Sunsweet Amaz!n Prune Juice",
+              "aroma": 3,
+              "aroma_preparation": "Mix 1 part juice with 2 parts water. This may be prepared 24 hours in advance and refrigerated. Bring to room temperature for serving. Serve 1 tablespoon in a medium snifter. Cover.",
+              "flavor": 4.5,
+              "flavor_preparation": "Mix 1 part juice with 2 parts water. This may be prepared 24 hours in advance and refrigerated in coded, lidded 1-ounce cups. Bring to room temperature for serving."
+            },
+            {
+              "reference": "Mixture of Sun-Maid Raisins and Sun-Maid Prunes",
+              "aroma": 5,
+              "aroma_preparation": "Mix ¼ cup raisins (whole) and ¼ cup prunes (chopped). Add ¾ cup water and cook in microwave on high for 2 minutes. Filter with a sieve. Place 1 tablespoon of liquid juice in a medium snifter. Cover.",
+              "flavor": 6,
+              "flavor_preparation": "Mix ¼ cup raisins (whole) and ¼ cup prunes (chopped). Add ¾ cup water and cook in microwave on high for 2 minutes. Filter with a sieve. Place the mixture in a blender and mix for 1 minute at medium speed. Serve the paste of raisins and prunes in a 1-ounce cup. Cover with a plastic lid."
+            }
+          ],
+          "children": [
+            {
+              "name": "Raisin",
+              "colour": "#B53B54",
+              "definition": "The concentrated, sweet, somewhat sour, brown, fruity, floral aromatic characteristic of dried grapes.",
+              "references": [
+                {
+                  "reference": "Sun-Maid Raisins",
+                  "aroma": 6,
+                  "aroma_preparation": "Chop 1/2 cup of raisins. Add ¾ cup water and cook in microwave on high for 2 minutes. Filter with a sieve. Place 1 tablespoon of liquid juice in a medium snifter. Cover.",
+                  "flavor": 5.5,
+                  "flavor_preparation": "Chop 1/2 cup of raisins. Add ¾ cup water and cook in microwave on high for 2 minutes. Filter with a sieve. Serve juice in a 1-ounce cup. Cover with a plastic lid. "
+                }
+              ]
+            },
+            {
+              "name": "Prune",
+              "colour": "#A5446F",
+              "definition": "The sweet, slightly brown, floral, musty and overripe aromatic impression of dark fruit associated with dried plums.",
+              "references": [
+                {
+                  "reference": "Sun-Maid Prunes",
+                  "aroma": 4.5,
+                  "aroma_preparation": "Chop 1/2 cup prunes. Add ¾ cup of water and cook in microwave on high for 2 minutes. Filter with a sieve. Place 1 tablespoon of juice in a medium snifter. Cover.",
+                  "flavor": 5,
+                  "flavor_preparation": "Chop 1/2 cup prunes. Add ¾ cup of water and cook in microwave on high for 2 minutes. Filter with a sieve. Pour juice into a 1-ounce cup. Cover a with plastic lid."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Other fruit",
+          "colour": "#F2684C",
+          "definition": "A sweet, light, fruity, somewhat floral, sour, or green aromatic that may include apples, grapes, peaches, pears, or cherries.",
+          "references": [
+            {
+              "reference": "Le Nez du Café n.17 “apple”",
+              "aroma": 7,
+              "aroma_preparation": "Place 1 drop of essence on a cotton ball in a large snifter. Cover"
+            }
+          ],
+          "children": [
+            {
+              "name": "Coconut",
+              "image": "coconut.png",
+              "icon": "coconut",
+              "colour": "#D07C36",
+              "definition": "The slightly sweet, nutty, somewhat woody aromatic associated with coconut.",
+              "references": [
+                {
+                  "reference": "Coconut imitation extract",
+                  "aroma": 7.5,
+                  "aroma_preparation": "Place 1 drop of coconut extract on a cotton ball in a medium snifter. Cover."
+                }
+              ]
+            },
+            {
+              "name": "Cherry",
+              "colour": "#E73451",
+              "image": "cherry.png",
+              "icon": "cherry",
+              "definition": "The sour, fruity, slightly bitter, floral aromatic associated with cherries.",
+              "references": [
+                {
+                  "reference": "R.W. Knudsen Just Tart Cherry Juice",
+                  "flavor": 4,
+                  "flavor_preparation": "Mix 1 part cherry juice with 2 parts water. Serve in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Pomegranate",
+              "colour": "#E65656",
+              "icon": "pomegranate",
+              "definition": "A sour, sweet fruity aromatic that may be somewhat dark, musty and earthy, reminiscent of dark fruits and root vegetables such as beets and carrots; may also have an astringent mouthfeel.",
+              "references": [
+                {
+                  "reference": "R.W. Knudsen Organic Just Pomegranate Juice",
+                  "aroma": 5.5,
+                  "aroma_preparation": "Serve 2 tablespoons of juice in a medium snifter. Cover.",
+                  "flavor": 7.5,
+                  "flavor_preparation": "Serve the juice in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Pineapple",
+              "colour": "#F89A1C",
+              "icon": "pineapple",
+              "definition": "The sweet, slightly sharp, fruity aromatic associated with pineapple.",
+              "references": [
+                {
+                  "reference": "Dole Pineapple Juice (canned)",
+                  "aroma": 6.5,
+                  "aroma_preparation": "Mix 1 part pineapple juice and 1 part water. Serve 1 tablespoon of juice in a medium snifter. Cover.",
+                  "flavor": 6,
+                  "flavor_preparation": "Mix 1 part pineapple juice and 1 part water. Serve juice in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Grape",
+              "colour": "#AEB92C",
+              "icon": "grape",
+              "definition": "The sweet, fruity, floral, slightly sour, musty aromatic commonly associated with grapes.",
+              "references": [
+                {
+                  "reference": "Welch’s 100% Juice Unfiltered Concord Grape",
+                  "flavor": 5,
+                  "flavor_preparation": "Mix 1 part grape juice with 1 part water. Serve in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Apple",
+              "colour": "#4EB947",
+              "image": "green-apple.png",
+              "icon": "apple",
+              "definition": "A sweet, light, fruity, somewhat floral aromatic commonly associated with fresh or processed apples.",
+              "references": [
+                {
+                  "reference": "Le Nez du Café n.17 “apple”",
+                  "aroma": 5,
+                  "aroma_preparation": "Place 1 drop of essence on a cotton ball in a large snifter. Cover."
+                },
+                {
+                  "reference": "Gerber 2nd Foods Applesauce",
+                  "flavor": 6,
+                  "flavor_preparation": "Serve applesauce in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Peach",
+              "colour": "#F68A5C",
+              "image": "peach.png",
+              "icon": "peach",
+              "definition": "The floral, perfuming, fruity, sweet, slightly sour aromatic associated with peaches.",
+              "references": [
+                {
+                  "reference": "Fresh peach pit",
+                  "aroma": 8,
+                  "aroma_preparation": "Put clean peach pit in a medium snifter. Cover."
+                },
+                {
+                  "reference": "Jell-O Peach (dry gelatin powder)",
+                  "flavor": 7,
+                  "flavor_preparation": "Serve dry powder in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Pear",
+              "colour": "#BAA635",
+              "image": "pear.png",
+              "icon": "pear",
+              "definition": "The sweet, slightly floral, musty, woody, fruity aromatic associated with pears.",
+              "references": [
+                {
+                  "reference": "Jumax Pear Nectar (can)",
+                  "flavor": 7.5,
+                  "flavor_preparation": "Serve juice in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Citrus fruit",
+          "colour": "#F7A129",
+          "definition": "A citric, sour, astringent, slightly sweet, peely, and somewhat floral aromatic that may include lemons, limes, grapefruits, or oranges.",
+          "references": [
+            {
+              "reference": "Peels of lemon and lime",
+              "aroma": 4.5,
+              "aroma_preparation": "Put 0.5 grams lemon peel and 0.5 grams lime peel in a medium snifter. Cover."
+            },
+            {
+              "reference": "Grapefruit peel",
+              "aroma": 7.5,
+              "aroma_preparation": "Put 0.25 grams grapefruit peel in a medium snifter. Cover."
+            },
+            {
+              "reference": "Five Alive Citrus (frozen concentrate)",
+              "flavor": 6.5,
+              "flavor_preparation": "Prepare the concentrate according to the package directions. Serve prepared juice in 1-ounce cups. Cover with a plastic lid."
+            }
+          ],
+          "children": [
+            {
+              "name": "Grapefruit",
+              "colour": "#F26355",
+              "image": "grapefruit.png",
+              "definition": "The citric, sour, bitter, astringent, peely, sharp, slightly sweet aromatic associated with grapefruit.",
+              "references": [
+                {
+                  "reference": "Ocean Spray 100% White Grapefruit Juice",
+                  "flavor": 11,
+                  "flavor_preparation": "Serve juice in a 1-ounce cup. Cover with a plastic lid."
+                },
+                {
+                  "reference": "Kroger 100% White Grapefruit Juice",
+                  "flavor": 13.5,
+                  "flavor_preparation": "Serve juice in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Orange",
+              "colour": "#E2631E",
+              "image": "orange.png",
+              "icon": "orange",
+              "definition": "The citric, sweet, floral, slightly sour aromatic associated with oranges, which may include bitter, peely, and astringent notes.",
+              "references": [
+                {
+                  "reference": "Tropicana Pure Premium Original 100% No Pulp Orange Juice",
+                  "flavor": 10,
+                  "flavor_preparation": "Serve juice in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Lemon",
+              "colour": "#FDE402",
+              "image": "lemon.png",
+              "icon": "lemon",
+              "definition": "The citric, sour, astringent, slightly sweet, peely and somewhat floral aromatic associated with lemon.",
+              "references": [
+                {
+                  "reference": "Fresh lemon juice",
+                  "aroma": 5,
+                  "aroma_preparation": "Juice a lemon. Dilute with water, 1 part juice to 4 parts water. Pour ¼ cup in a medium snifter. Cover.",
+                  "flavor": 7,
+                  "flavor_preparation": "Juice a lemon. Dilute with water, 1 part juice to 4 parts water. Serve in a 1-ounce cup. Cover with a plastic lid."
+                },
+                {
+                  "reference": "Le Nez du Café n. 15 'lemon'",
+                  "aroma": 5.5,
+                  "aroma_preparation": "Place 1 drop of essence on a cotton ball in a large snifter. Cover."
+                }
+              ]
+            },
+            {
+              "name": "Lime",
+              "colour": "#7EB138",
+              "image": "lime.png",
+              "icon": "lime",
+              "definition": "The citric, sour, astringent, bitter, green, peely, sharp and somewhat floral aromatic associated with limes.",
+              "references": [
+                {
+                  "reference": "Lime peel",
+                  "aroma": 6.5,
+                  "aroma_preparation": "Put 0.25 grams lime peel in a medium snifter. Cover."
+                },
+                {
+                  "reference": "ReaLime 100% Lime Juice",
+                  "flavor": 7,
+                  "flavor_preparation": "Serve juice in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sour/Fermented",
+      "colour": "#EBB40D",
+      "children": [
+        {
+          "name": "Sour",
+          "colour": "#E1C315",
+          "fundamental": true,
+          "definition": "The fundamental taste factor associated with a citric acid solution.",
+          "references": [
+            {
+              "reference": "0.015% citric acid solution.",
+              "flavor": 1.5,
+              "flavor_preparation": "Serve solution in a 1-ounce cup. Cover with a plastic lid."
+            },
+            {
+              "reference": "0.05% citric acid solution.",
+              "flavor": 3.5,
+              "flavor_preparation": "Serve solution in a 1-ounce cup. Cover with a plastic lid."
+            }
+          ],
+          "children": [
+            {
+              "name": "Sour aromatics",
+              "colour": "#9EA718",
+              "definition": "An aromatic associated with the impression of a sour product.",
+              "references": [
+                {
+                  "reference": "Bush’s Pinto Beans (canned)",
+                  "aroma": 2,
+                  "aroma_preparation": "Drain beans and rinse with deionized water. Place 1 tablespoon in a medium snifter at room temperature. Cover."
+                }
+              ]
+            },
+            {
+              "name": "Acetic acid",
+              "colour": "#94A770",
+              "image": "acetic-acid.svg",
+              "definition": "A sour, astringent, slightly pungent aromatic associated with vinegar.",
+              "references": [
+                {
+                  "reference": "0.5% acetic acid solution",
+                  "aroma": 2,
+                  "aroma_preparation": "Serve in a 1-ounce cup. Cover with a plastic lid.",
+                  "flavor": 2,
+                  "flavor_preparation": "Serve in a 1-ounce cup. Cover with a plastic lid."
+                },
+                {
+                  "reference": "1.0% acetic acid solution",
+                  "aroma": 2.5,
+                  "aroma_preparation": "Serve in a 1-ounce cup. Cover with a plastic lid.",
+                  "flavor": 3,
+                  "flavor_preparation": "Serve in a 1-ounce cup. Cover with a plastic lid."
+                },
+                {
+                  "reference": "2.0% acetic acid solution",
+                  "aroma": 3,
+                  "aroma_preparation": "Serve in a 1-ounce cup. Cover with a plastic lid.",
+                  "flavor": 4.5,
+                  "flavor_preparation": "Serve in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Butyric acid",
+              "colour": "#D0B34F",
+              "image": "butyric-acid.svg",
+              "definition": "A sour, fermented-dairy aromatic associated with certain aged cheeses such as Parmesan",
+              "references": [
+                {
+                  "reference": "0.4 µl/l butyric acid solution",
+                  "aroma": 2.5,
+                  "aroma_preparation": "Serve in a 1-ounce cup. Cover with a plastic lid.",
+                  "flavor": 3,
+                  "flavor_preparation": "Serve in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Isovaleric acid",
+              "colour": "#8EB646",
+              "image": "isovaleric-acid.png",
+              "definition": "A pungent, sour aromatic associated with sweaty, perspiration-generated foot odor and certain aged cheeses such as Romano.",
+              "references": [
+                {
+                  "reference": "0.2 µl/l isovaleric acid solution",
+                  "aroma": 3,
+                  "aroma_preparation": "Serve in a 1-ounce cup. Cover with a plastic lid.",
+                  "flavor": 4,
+                  "flavor_preparation": "Serve in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Citric acid",
+              "colour": "#FAEF08",
+              "image": "citric-acid.svg",
+              "icon": "citric-acid",
+              "definition": "A mild, clean, sour aromatic with slight citrus notes accompanied by astringency.",
+              "references": [
+                {
+                  "reference": "0.025% citric acid solution",
+                  "aroma": 0,
+                  "aroma_preparation": "Serve in a 1-ounce cup. Cover with a plastic lid.",
+                  "flavor": 2.5,
+                  "flavor_preparation": "Serve in a 1-ounce cup. Cover with a plastic lid."
+                },
+                {
+                  "reference": "0.05% citric acid solution",
+                  "aroma": 0,
+                  "aroma_preparation": "Serve in a 1-ounce cup. Cover with a plastic lid.",
+                  "flavor": 3.5,
+                  "flavor_preparation": "Serve in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Malic acid",
+              "colour": "#C1BA09",
+              "image": "malic-acid.png",
+              "definition": "A sour, sharp, somewhat fruity aromatic accompanied by astringency.",
+              "references": [
+                {
+                  "reference": "0.5 g/l malic acid solution",
+                  "flavor": 3,
+                  "flavor_preparation": "Serve in a 1-ounce cup. Cover with a plastic lid."
+                },
+                {
+                  "reference": "1.0 g/l malic acid solution",
+                  "flavor": 5,
+                  "flavor_preparation": "Serve in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Alcohol/Fermented",
+          "colour": "#B09733",
+          "image": "ethanol.svg",
+          "definition": "Alcohol — a colorless, pungent, chemical-like aromatic associated with distilled spirits or grain products",
+          "references": [
+            {
+              "reference": "Absolute Vodka (80 Proof)",
+              "aroma": 5,
+              "aroma_preparation": "Dilute 16 milliliters of vodka with 64 milliliters of water. Serve in a large snifter. Cover."
+            }
+          ],
+          "children": [
+            {
+              "name": "Winey",
+              "colour": "#8F1B53",
+              "definition": "The sharp, pungent, somewhat fruity, alcohol-like aromatic associated with wine.",
+              "references": [
+                {
+                  "reference": "Yellow Tail Cabernet Sauvignon",
+                  "aroma": 10,
+                  "aroma_preparation": "Serve ½ cup of wine in a large snifter. Cover."
+                }
+              ]
+            },
+            {
+              "name": "Whiskey",
+              "colour": "#B34039",
+              "definition": "The aromatic associated with distilled products from fermented grain mash.",
+              "references": [
+                {
+                  "reference": "Jack Daniel’s Tennessee Whiskey Old No. 7",
+                  "aroma": 5.5,
+                  "aroma_preparation": "Serve ½ cup whiskey in a large snifter. Cover."
+                }
+              ]
+            },
+            {
+              "name": "Fermented",
+              "colour": "#BA9232",
+              "definition": "The pungent, sweet, slightly sour, sometimes yeasty, alcohol-like aromatic characteristic of fermented fruits or sugar or over-proofed dough.",
+              "references": [
+                {
+                  "reference": "Guinness Extra Stout beer",
+                  "aroma": 5,
+                  "aroma_preparation": "Fill 2-ounce aroma jars approximated 1/3 full. Prepare one jar for every three participants. This may be prepared 24 hours in advance and left at room temperature."
+                },
+                {
+                  "reference": "Fermented grass",
+                  "aroma": 7,
+                  "aroma_preparation": "Fill 2-ounce glass jars half full with grass and seal tightly with screw-on lids. Leave in airtight container for 2 weeks to ferment. Serve in jar; prepare one jar for every three panelists."
+                }
+              ]
+            },
+            {
+              "name": "Overripe",
+              "colour": "#8B6439",
+              "image": "overripe-banana.png",
+              "icon": "overripe",
+              "definition": "(Overripe/Near fermented) The sweet, slightly sour, damp, musty/earthy aromatic characteristic of fruit or vegetable past their optimum ripeness.",
+              "references": [
+                {
+                  "reference": "Overripe banana",
+                  "aroma": 6.5,
+                  "aroma_preparation": "Freeze an overripe banana. Microwave the frozen banana for 1 minute. Mash the cooked banana. Serve 1 teaspoon of mash in a medium snifter. Cover.",
+                  "flavor": 6.5,
+                  "flavor_preparation": "Freeze an overripe banana. Microwave the frozen banana for 1 minute. Mash the cooked banana. Place mash in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Green/Vegetative",
+      "colour": "#197A2F",
+      "children": [
+        {
+          "name": "Olive oil",
+          "colour": "#A2B028",
+          "definition": "A light, oily aromatic which may have buttery, green, peppery, bitter, and sweet notes.",
+          "references": [
+            {
+              "reference": "Bertolli Extra Virgin Olive Oil",
+              "aroma": 8.5,
+              "aroma_preparation": "Put 1 tablespoon in a medium snifter. Cover."
+            }
+          ]
+        },
+        {
+          "name": "Raw",
+          "colour": "#708933",
+          "definition": "An aromatic associated with uncooked products.",
+          "references": [
+            {
+              "reference": "Fisher Natural Whole Almonds",
+              "flavor": 3,
+              "flavor_preparation": "Serve the almonds in a 1-ounce cup. Cover with a plastic lid."
+            }
+          ]
+        },
+        {
+          "name": "Green/Vegetative",
+          "colour": "#3AA255",
+          "definition": "(Green) An aromatic characteristic of fresh, plant-based material. Attributes may include leafy, viney, unripe, grassy, and peapod.",
+          "references": [
+            {
+              "reference": "Parsley water",
+              "aroma": 9,
+              "aroma_preparation": "Rinse and chop 25 grams of fresh parsley. Add 300 milliliters of water. Let sit for 15 minutes. Filter out the parsley. Serve 1 tablespoon of the water in a medium snifter. Cover.",
+              "flavor": 6,
+              "flavor_preparation": "Rinse and chop 25 grams of fresh parsley. Add 300 milliliters of water. Let sit for 15 minutes. Filter out the parsley. Serve 2 teaspoons of the water in a 1-ounce cup. Cover with a plastic lid."
+            }
+          ],
+          "children": [
+            {
+              "name": "Under-ripe",
+              "colour": "#A2BC2B",
+              "definition": "An aromatic found in green/under-ripe fruit.",
+              "references": [
+                {
+                  "reference": "Grapefruit peel",
+                  "aroma": 7.5,
+                  "aroma_preparation": "Put 0.25 grams of grapefruit peel in a medium snifter. Cover."
+                }
+              ]
+            },
+            {
+              "name": "Peapod",
+              "colour": "#62AA3C",
+              "icon": "peapod",
+              "definition": "Green aromatic that is sweet, beany, fresh, raw, and musty/earthy.",
+              "references": [
+                {
+                  "reference": "Le Nez du Café, no. 3 “garden peas”",
+                  "aroma": 7,
+                  "aroma_preparation": "Place 1 drop of essence on a cotton ball in a large snifter. Cover"
+                }
+              ]
+            },
+            {
+              "name": "Fresh",
+              "colour": "#03A653",
+              "definition": "A green aromatic associated with newly cut grass and leafy plants, characterized by a sweet and pungent character.",
+              "references": [
+                {
+                  "reference": "Fresh green grass",
+                  "aroma": 7,
+                  "aroma_preparation": "Break in half 5 pieces of grass and place into a medium snifter. Cover. Prepare one snifter for every three panelists. Prepare on the day of evaluation so the grass does not ferment and change aroma."
+                }
+              ]
+            },
+            {
+              "name": "Dark green",
+              "colour": "#048549",
+              "icon": "dark-green",
+              "definition": "The aromatic commonly associated with cooked green vegetables such as spinach, kale, or green beans that may include bitter, sweet, dusty, musty, or earthy elements, and may have a dark, heavy impression.",
+              "references": [
+                {
+                  "reference": "Green Giant Cut Green Beans (canned, liquid of)",
+                  "aroma": 5,
+                  "aroma_preparation": "Place 1 tablespoon of liquid from canned vegetables in a medium snifter. Cover.",
+                  "flavor": 6,
+                  "flavor_preparation": "Serve liquid from canned vegetables in 1-ounce cup. Cover with a plastic lid."
+                },
+                {
+                  "reference": "Del Monte Leaf Spinach (canned, liquid of)",
+                  "aroma": 7,
+                  "aroma_preparation": "Place 1 tablespoon of liquid from canned vegetables in a medium snifter. Cover. ",
+                  "flavor": 6,
+                  "flavor_preparation": "Serve liquid from canned vegetables in 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Vegetative",
+              "colour": "#27B44B",
+              "definition": "Sharp, slightly pungent aromatic associated with green plant or vegetable matter such as parsley, spinach, or peapod.",
+              "references": [
+                {
+                  "reference": "Green Giant Cut Asparagus Spears (canned)",
+                  "flavor": 6,
+                  "flavor_preparation": "Drain liquid from can, saving vegetable water. Place approximately 3 pieces of asparagus and 1 tablespoon of liquid into 1-ounce cups. Cover with a plastic lid. This may be prepared 24 hours in advance and refrigerated. Bring to room temperature for serving."
+                }
+              ]
+            },
+            {
+              "name": "Hay-like",
+              "colour": "#A3A830",
+              "definition": "The lightly sweet, dry, dusty aromatic with slight green character associated with dry grasses.",
+              "references": [
+                {
+                  "reference": "McCormick Parsley Flakes",
+                  "aroma": 7.5,
+                  "aroma_preparation": "Place 1 teaspoon of flakes in a medium snifter. Cover."
+                }
+              ]
+            },
+            {
+              "name": "Herb-like",
+              "colour": "#7AC141",
+              "definition": "The aromatic commonly associated with green herbs that may be characterized as sweet, slightly pungent, and slightly bitter. May or may not include green or brown notes.",
+              "references": [
+                {
+                  "reference": "Mixture of McCormick Bay Leaves, McCormick Ground Thyme, and McCormick Basil Leaves",
+                  "aroma": 6,
+                  "aroma_preparation": "Mix together 0.5 grams of each herb. Break the bay leaves into smaller pieces with your hands first, and then grind all the herbs together using a mortar and pestle. Add 100 milliliters of water. Mix well. Put 5 milliliters of herb water in a medium snifter, and add 200 milliliters of water. Cover",
+                  "flavor": 5,
+                  "flavor_preparation": "Mix together 0.5 grams of each herb. Break the bay leaves into smaller pieces with your hands first, and then grind all the herbs together using a mortar and pestle. Add 100 milliliters of water. Mix well. Mix 5 milliliters of herb water with 200 milliliters of water and serve in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Beany",
+          "colour": "#5E9A80",
+          "definition": "An aromatic characteristic of beans and bean products that contains musty/earthy, musty/dusty, sour aromatic, bitter aromatic, starchy, and green/peapod, nutty or brown elements.",
+          "references": [
+            {
+              "reference": "Bush’s Pinto Beans (canned)",
+              "aroma": 7,
+              "aroma_preparation": "Drain beans and rinse with de-ionized water. Place 1 tablespoon in a medium snifter at room temperature. Cover.",
+              "flavor": 7.5,
+              "flavor_preparation": "Drain beans and rinse with de-ionized water. Serve in 1-ounce cups. Cover with a plastic lid."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "colour": "#0AA3B5",
+      "children": [
+        {
+          "name": "Papery/Musty",
+          "colour": "#9DB2B7",
+          "children": [
+            {
+              "name": "Stale",
+              "colour": "#8B8C90",
+              "definition": "The aromatic characterized by a lack of freshness",
+              "references": [
+                {
+                  "reference": "Mama Mary’s Gourmet Original Pizza Crust",
+                  "aroma": 4.5,
+                  "aroma_preparation": "Serve cut a 2-inch square of crust and serve in a medium snifter. Cover.",
+                  "flavor": 4,
+                  "flavor_preparation": "Serve cut a 2-inch square and serve in a 3.25-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Cardboard",
+              "colour": "#BDB175",
+              "image": "cardboard.jpg",
+              "definition": "The aromatic associated with cardboard or paper packaging.",
+              "references": [
+                {
+                  "reference": "Cardboard",
+                  "aroma": 7.5,
+                  "aroma_preparation": "Cut a 2-inch square of cardboard. Place in 1/2 cup water. Serve in a medium snifter. Cover."
+                }
+              ]
+            },
+            {
+              "name": "Papery",
+              "colour": "#FEFEF4",
+              "definition": "The aromatic associated with white paper cups.",
+              "references": [
+                {
+                  "reference": "Pure Brew coffee filters",
+                  "flavor": 2.5,
+                  "flavor_preparation": "Submerge a stack of 15 coffee filters in 48 ounces boiling water overnight. Remove filters and place remaining water into 1-ounce cups. Cover with a plastic lid. This may be prepared in 24 hours advance and stored at room temperature."
+                }
+              ]
+            },
+            {
+              "name": "Woody",
+              "colour": "#744F02",
+              "definition": "The sweet, brown, musty, dark aromatic associated with a bark of a tree.",
+              "references": [
+                {
+                  "reference": "Diamond Shelled Walnuts.",
+                  "aroma": 4,
+                  "aroma_preparation": "Chop walnuts. Place 1 tablespoon of chopped walnuts in a medium snifter. Cover.",
+                  "flavor": 4,
+                  "flavor_preparation": "Serve walnuts in a 1-ounce cup. Cover with a plastic lid."
+                },
+                {
+                  "reference": "Popsicle sticks",
+                  "aroma": 7.5,
+                  "aroma_preparation": "Break popsicle sticks to fit in sample cups of any size. Cover with a plastic lid. This may be prepared in advance.",
+                }
+              ]
+            },
+            {
+              "name": "Moldy/Damp",
+              "colour": "#A3A36F",
+              "image": "2,3,5,6-tetrachloroanisole.png",
+              "definition": "The aromatic associated with damp, closed spaces or basements. May be musty, sharp, and slightly green.",
+              "references": [
+                {
+                  "reference": "2-Ethyl-1-Hexanol 10,000 ppm",
+                  "aroma": 6,
+                  "aroma_preparation": "Place 1 drop on a cotton ball and serve in a medium snifter. Cover."
+                },
+                {
+                  "reference": "2,3,5,6-tetrachloroanisole",
+                  "aroma": 10,
+                  "aroma_preparation": "Place 0.1 gram in a medium snifter. Cover."
+                }
+              ]
+            },
+            {
+              "name": "Musty/Dusty",
+              "colour": "#C9B583",
+              "image": "2,3,4-trimethoxybenzaldehyde.png",
+              "definition": "The aromatic associated with dry, closed-air spaces such as attics and closets. May have elements of dry, musty, papery, dry soil, or grain.",
+              "references": [
+                {
+                  "reference": "Kretschmer Wheat Germ",
+                  "aroma": 5,
+                  "aroma_preparation": "Serve 1 tablespoon wheat germ in a medium snifter. Cover."
+                },
+                {
+                  "reference": "2,3,4-trimethoxybenzaldehyde",
+                  "aroma": 10,
+                  "aroma_preparation": "Place 0.1 gram in a medium snifter. Cover."
+                }
+              ]
+            },
+            {
+              "name": "Musty/Earthy",
+              "colour": "#988847",
+              "definition": "The somewhat sweet, heavy aromatic associated with decaying vegetation and damp, black soil.",
+              "references": [
+                {
+                  "reference": "Miracle-Gro Potting Mix soil",
+                  "aroma": 9,
+                  "aroma_preparation": "Fill a 2-ounce glass jar half full with potting soil and seal tightly with screw-on type lid. Prepare one jar for every three panelists."
+                },
+                {
+                  "reference": "Le Nez du Café no. 1 “earthy”",
+                  "aroma": 12,
+                  "aroma_preparation": "Place 1 drop of essence on a cotton ball in a large snifter. Cover."
+                }
+              ]
+            },
+            {
+              "name": "Animalic",
+              "colour": "#9D977F",
+              "definition": "A combination of the aromatics associated with farm animals and live-animal habitation.",
+              "references": [
+                {
+                  "reference": "Unflavored gelatin",
+                  "aroma": 3,
+                  "aroma_preparation": "Dissolve 1 bag of gelatin (¼ ounce) in 2 cups distilled water. Place ¼ cup of gelatin water in a medium snifter. Cover."
+                }
+              ]
+            },
+            {
+              "name": "Meaty/Brothy",
+              "colour": "#CC7B6A",
+              "image": "campbells-beef-soup.jpg",
+              "definition": "The aromatic associated with boiled meat, soup, or stock, with weak meaty notes.",
+              "references": [
+                {
+                  "reference": "Campbell’s Beef Broth (canned)",
+                  "flavor": 9.5,
+                  "flavor_preparation": "Heat the broth and serve in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Phenolic",
+              "colour": "#DB646A",
+              "image": "phenylacetic-acid.svg",
+              "definition": "The aromatic described as damp, musty, and like animal hide. Reminiscent of a tack room.",
+              "references": [
+                {
+                  "reference": "Phenylacetic acid",
+                  "aroma": 6,
+                  "aroma_preparation": "Serve 0.15g of phenylacetic acid in a medium snifter. Cover."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chemical",
+          "colour": "#76C0CB",
+          "children": [
+            {
+              "name": "Bitter",
+              "colour": "#80A89D",
+              "image": "caffeine.svg",
+              "fundamental": true,
+              "definition": "The fundamental taste factor associated with a caffeine solution.",
+              "references": [
+                {
+                  "reference": "0.01% caffeine solution",
+                  "flavor": 2,
+                  "flavor_preparation": "Serve solution in a 1-ounce cup. Cover with a plastic lid."
+                },
+                {
+                  "reference": "0.02% caffeine solution",
+                  "flavor": 3.5,
+                  "flavor_preparation": "Serve solution in a 1-ounce cup. Cover with a plastic lid."
+                },
+                {
+                  "reference": "0.035% caffeine solution",
+                  "flavor": 5,
+                  "flavor_preparation": "Serve solution in a 1-ounce cup. Cover with a plastic lid."
+                },
+                {
+                  "reference": "0.05% caffeine solution",
+                  "flavor": 6.5,
+                  "flavor_preparation": "Serve solution in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Salty",
+              "colour": "#DEF2FD",
+              "fundamental": true,
+              "definition": "A fundamental taste factor of which sodium chloride is typical",
+              "references": [
+                {
+                  "reference": "0.15% Sodium Chloride Solution",
+                  "flavor": 1.5,
+                  "flavor_preparation": "Serve solution in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Medicinal",
+              "colour": "#7A9BAE",
+              "definition": "A clean, sterile aromatic characteristic of antiseptic-like products such as Band-Aids, alcohol, and iodine.",
+              "references": [
+                {
+                  "reference": "Iodine",
+                  "aroma": 3,
+                  "aroma_preparation": "Serve ¼ cup iodine in a medium snifter. Cover."
+                },
+                {
+                  "reference": "Alcohol",
+                  "aroma": 5,
+                  "aroma_preparation": "Serve ¼ cup alcohol in a medium snifter. Cover."
+                },
+                {
+                  "reference": "Le Nez du Café no. 35 “medicinal”",
+                  "aroma": 6,
+                  "aroma_preparation": "Place 1 drop of essence on a cotton ball in a large snifter. Cover."
+                },
+                {
+                  "reference": "Band-Aid Plastic Strips adhesive bandage",
+                  "aroma": 6,
+                  "aroma_preparation": "Place 1 bandage in a medium snifter. Cover."
+                }
+              ]
+            },
+            {
+              "name": "Petroleum",
+              "colour": "#039FB8",
+              "definition": "A specific chemical aromatic associated with crude oil and its refined products, which have heavy oil characteristics",
+              "references": [
+                {
+                  "reference": "Vaseline petroleum jelly",
+                  "aroma": 3,
+                  "aroma_preparation": "Place a teaspoon of jelly in a medium snifter. Cover."
+                }
+              ]
+            },
+            {
+              "name": "Skunky",
+              "colour": "#5E777B",
+              "icon": "skunky",
+              "definition": "A combination of aromatics associated with skunks.",
+              "references": [
+                {
+                  "reference": "Latex balloon",
+                  "aroma": 2.5,
+                  "aroma_preparation": "Place 2 balloons in a 2-ounce glass jar with screw-type lid. This may be prepared several days in advance and stored at room temperature. Prepare one jar for every three panelists."
+                }
+              ]
+            },
+            {
+              "name": "Rubber",
+              "colour": "#120C0C",
+              "definition": "A dark, heavy, slightly sharp, and pungent aromatic associated with rubber.",
+              "references": [
+                {
+                  "reference": "A&W Rubber Bands",
+                  "aroma": 5,
+                  "aroma_preparation": "Place 10 grams of rubber bands in a medium snifter. Cover."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Roasted",
+      "colour": "#C94930",
+      "definition": "Dark brown impression characteristic of products cooked to a high temperature by dry heat. Does not include bitter or burnt notes.",
+      "references": [
+        {
+          "reference": "Raw blanched peanuts, lightly roasted",
+          "flavor": 2.5,
+          "flavor_preparation": "Preheat oven to 425°F. Place peanuts in a single layer on a baking sheet lined with parchment paper. Roast for 7 minutes. Peanuts will not show any color. Serve in a 1-ounce cup. Cover with a plastic lid."
+        },
+        {
+          "reference": "Raw blanched peanuts, medium-roasted",
+          "flavor": 6.5,
+          "flavor_preparation": "Preheat oven to 425°F. Place peanuts in a single layer on a baking sheet lined with parchment paper. Roast for 10 minutes or until peanuts are medium brown in color. Serve in a 1-ounce cup. Cover with a plastic lid."
+        },
+        {
+          "reference": "Raw blanched peanuts, dark-roasted",
+          "flavor": 9.5,
+          "flavor_preparation": "Preheat oven to 425°F. Place peanuts in a single layer on a baking sheet lined with parchment paper. Roast for 15 minutes or until peanuts are dark brown in color. Serve in a 1-ounce cup. Cover with a plastic lid."
+        },
+        {
+          "reference": "Raw blanched peanuts, over-roasted/burnt",
+          "flavor": 15,
+          "flavor_preparation": "Preheat oven to 425°F. Place peanuts in a single layer on a baking sheet lined with parchment paper. Roast for 20 minutes. Peanuts will be burnt. Serve in a 1-ounce cup. Cover with a plastic lid."
+        }
+      ],
+      "children": [
+        {
+          "name": "Pipe tobacco",
+          "colour": "#CAA465",
+          "definition": "The brown, sweet, slightly pungent, fruity, floral, spicy aromatic associated with cured tobacco.",
+          "references": [
+            {
+              "reference": "Carter Hall Pipe Tobacco",
+              "aroma": 6.5,
+              "aroma_preparation": "Put 1 teaspoon of tobacco in a medium snifter. Cover."
+            }
+          ]
+        },
+        {
+          "name": "Tobacco",
+          "colour": "#DFBD7E",
+          "definition": "The brown, slightly sweet, slightly pungent aromatic associated with cured tobacco.",
+          "references": [
+            {
+              "reference": "Le Nez du Café no. 33 “pipe tobacco”",
+              "aroma": 5,
+              "aroma_preparation": "Place 1 drop of essence on a cotton ball in a large snifter. Cover."
+            },
+            {
+              "reference": "Camel cigarettes (Turkish and Domestic blend)",
+              "aroma": 7,
+              "aroma_preparation": "Break cigarette and place 0.1 grams tobacco in a medium snifter. Cover"
+            },
+            {
+              "reference": "Cigar tobacco",
+              "aroma": 10.5,
+              "aroma_preparation": "Split cigar into a 2-ounce glass jar with screw-on type lid. Fill jars approximately 1/3 full. Prepare 1 jar for every three panelists."
+            },
+            {
+              "reference": "Unscented pipe tobacco",
+              "aroma": 10.5,
+              "aroma_preparation": "Fill a 2-ounce glass jar with screw-on type lid approximately 1/3 full with tobacco and seal tightly. Prepare 1 jar for every three panelists."
+            }
+          ]
+        },
+        {
+          "name": "Burnt",
+          "colour": "#BE8663",
+          "definition": "The dark brown impression of an over-cooked or over-roasted product that can be sharp, bitter, and sour.",
+          "references": [
+            {
+              "reference": "Benzyl disulfide",
+              "aroma": 4.5,
+              "aroma_preparation": "Place 0.1 gram of benzyl disulfide in a medium snifter. Cover."
+            },
+            {
+              "reference": "Raw peanuts, over-roasted/burnt",
+              "flavor": 7.5,
+              "flavor_preparation": "Preheat oven to 425°F. Place raw, blanched peanuts in a single layer on a baking sheet lined with parchment paper. Roast for 20 minutes. Peanuts will be burnt. Serve in a 1-ounce cup. Cover with a plastic lid."
+            },
+            {
+              "reference": "Alf’s Natural Nutrition Red Wheat Cereal",
+              "aroma": 8,
+              "aroma_preparation": "Serve 1 tablespoon of cereal in a medium snifter. Cover.",
+              "flavor": 3,
+              "flavor_preparation": "Place 1 tablespoon of cereal in a 1-ounce cup. Cover with a plastic lid.Cereal should be tasted two at a time."
+            }
+          ],
+          "children": [
+            {
+              "name": "Acrid",
+              "colour": "#B9A449",
+              "definition": "The sharp, pungent, bitter, acidic aromatic associated with products that are excessively roasted or browned.",
+              "references": [
+                {
+                  "reference": "Alf’s Natural Nutrition Red Wheat Cereal",
+                  "aroma": 3,
+                  "aroma_preparation": "Serve 2 tablespoons cereal in a medium snifter. Cover.",
+                  "flavor": 3,
+                  "flavor_preparation": "Serve 1 tablespoon cereal in a 1-ounce cup. Cover with a plastic lid."
+                },
+                {
+                  "reference": "Wright’s Liquid Smoke Mesquite",
+                  "aroma": 9.5,
+                  "aroma_preparation": "Place 1 drop of liquid smoke on a cotton ball in a large snifter. Cover"
+                }
+              ]
+            },
+            {
+              "name": "Ashy",
+              "colour": "#899893",
+              "definition": "The dry, dusty, dirty, smoky aromatic associated with the residual of burnt products.",
+              "references": [
+                {
+                  "reference": "Gerkens 10/12 Midnight Black heavily alkalized cocoa powder",
+                  "aroma": 2.5,
+                  "aroma_preparation": "Put ½ teaspoon of cocoa powder in a medium snifter. Cover.",
+                  "flavor": 3.5,
+                  "flavor_preparation": "Mix ¼ teaspoon cocoa powder with 100 milliliters water. Serve in a 1-ounce cup. Cover with a plastic lid."
+                },
+                {
+                  "reference": "Benzyl disulfide",
+                  "aroma": 4,
+                  "aroma_preparation": "Place 0.1 gram of benzyl disulfide in a medium snifter. Cover."
+                },
+                {
+                  "reference": "Paper ashes",
+                  "aroma": 4,
+                  "aroma_preparation": "Obtain ashes from burned white paper and place in 2-ounce glass jars with screw-on type lids. Fill jars approximately 1/3 full. This may be prepared several days in advance and stored at room temperature, tightly sealed. Prepare one jar for every three panelists."
+                }
+              ]
+            },
+            {
+              "name": "Smoky",
+              "colour": "#A1743B",
+              "icon": "smoky",
+              "definition": "An acute, pungent aromatic that is a product of the combustion of wood, leaves, or a non-natural product.",
+              "references": [
+                {
+                  "reference": "Benzyl disulfide",
+                  "aroma": 3.5,
+                  "aroma_preparation": "Place 0.1 gram of benzyl disulfide in a medium snifter. Cover."
+                },
+                {
+                  "reference": "Diamond Smoked Almonds",
+                  "aroma": 6,
+                  "aroma_preparation": "Place 5 almonds in a medium snifter. Cover.",
+                  "flavor": 5,
+                  "flavor_preparation": "Place 1 tablespoon of almonds in a 3.25 ounce cup. Cover with a plastic lid."
+                },
+                {
+                  "reference": "Wood Ashes",
+                  "aroma": 5,
+                  "aroma_preparation": "Obtain ashes from burned wood (from fireplace or outdoor fire pit). Place ashes in 2-ounce glass jars with screw-on type lids. Fill jars approximately 1/3 full. This may be prepared several days in advance and stored at room temperature, tightly sealed. Prepare one jar for every three participants."
+                }
+              ]
+            },
+            {
+              "name": "Brown, Roast",
+              "colour": "#894810",
+              "definition": "A rich, full, round aromatic impression always characterized as some degree of darkness, generally associated with attributes such as toasted, nutty, roasted, and sweet.",
+              "references": [
+                {
+                  "reference": "Bush’s Pinto Beans (canned)",
+                  "aroma": 6,
+                  "aroma_preparation": "Place 1 tablespoon in a medium snifter at room temperature. Cover.",
+                  "flavor": 3,
+                  "flavor_preparation": "Drain beans and rinse with de-ionized water. Serve in a 1-ounce cup. Cover with a plastic lid."
+                },
+                {
+                  "reference": "C&H Pure Cane Sugar, Golden Brown",
+                  "aroma": 3,
+                  "aroma_preparation": "Place 1 teaspoon of sugar in a medium snifter. Cover.",
+                  "flavor": 7,
+                  "flavor_preparation": "Place 1 teaspoon of sugar in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cereal",
+          "colour": "#DDAF61",
+          "children": [
+            {
+              "name": "Grain",
+              "colour": "#B7906F",
+              "icon": "grain",
+              "definition": "The light brown, dusty, musty, sweet aromatic associated with grains.",
+              "references": [
+                {
+                  "reference": "Mixture of General Mills Rice Chex, General Mills Wheaties and Quaker Quick Oats cereals",
+                  "aroma": 5,
+                  "aroma_preparation": "Mix together ½ cup of each kind of cereal. Put in a blender and “pulse” blend into small particles. Place 1 tablespoon in a medium snifter. Cover. ",
+                  "flavor": 8,
+                  "flavor_preparation": "Mix together ½ cup of each kind of cereal. Put in a blender and “pulse” blend into small particles. Serve 1 teaspoon in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Malt",
+              "colour": "#EB9D5E",
+              "definition": "The light brown, dusty, musty, sweet, sour and or slightly fermented aromatic associated with grains.",
+              "references": [
+                {
+                  "reference": "Post Grape-Nuts cereal",
+                  "aroma": 3.5,
+                  "aroma_preparation": "Place 1 tablespoon of cereal in a medium snifter. Cover.",
+                  "flavor": 8,
+                  "flavor_preparation": "Serve cereal in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spices",
+      "colour": "#AD213E",
+      "children": [
+        {
+          "name": "Pungent",
+          "colour": "#794652",
+          "definition": "A sharp, physically penetrating sensation in the nasal cavity.",
+          "references": [
+            {
+              "reference": "Majestic Mountain Sage Orange Essential Oil, Brazil",
+              "aroma": 5,
+              "aroma_preparation": "Mix 1 drop essential oil into 1 tablespoon 3% sucrose solution. Serve in a medium snifter. Cover."
+            }
+          ]
+        },
+        {
+          "name": "Pepper",
+          "colour": "#CC3C42",
+          "definition": "The spicy, pungent, musty, and woody aromatic characteristic of ground black pepper.",
+          "references": [
+            {
+              "reference": "McCormick Ground Black Pepper",
+              "aroma": 13,
+              "aroma_preparation": "Place ½ teaspoon pepper in a medium snifter. Cover."
+            }
+          ]
+        },
+        {
+          "name": "Brown spice",
+          "colour": "#B14D57",
+          "definition": "The sweet, brown aromatic associated with spices such as cinnamon, clove, nutmeg, and allspice",
+          "references": [
+            {
+              "reference": "Private Selection Cinnamon Sticks",
+              "aroma": 3,
+              "aroma_preparation": "Place 1 cinnamon stick in a 2-ounce glass jar with screw-on type lid. Prepare one per every four panelists. May be prepared 24 hours in advance and stored with tightly sealed lid."
+            },
+            {
+              "reference": "Private Selection Nutmeg (whole) and Private Selection Clove (whole)",
+              "aroma": 7,
+              "aroma_preparation": "Place 1 whole nutmeg and 3 clove buds in a 2-ounce glass jar with screw-on type lid. Prepare one per every four participants. May be prepared 24 hours in advance and stored with tightly sealed lid. (Note: If unable to find whole nutmeg, substitute ¼ teaspoon of ground nutmeg.)"
+            },
+            {
+              "reference": "Ground cinnamon, allspice, nutmeg, and clove mixture",
+              "aroma": 10.5,
+              "aroma_preparation": "Mix together 0.25 grams ground cinnamon, 0.25 grams ground allspice, 0.25 grams ground nutmeg, and 0.06 grams ground cloves. Serve ¼ teaspoon of spice mixture in a medium snifter. Cover."
+            }
+          ],
+          "children": [
+            {
+              "name": "Anise",
+              "colour": "#C78935",
+              "definition": "A pungent, sweet, brown, caramelized aromatic that may contain petroleum, medicinal, and floral notes.",
+              "references": [
+                {
+                  "reference": "Tone’s Pure Anise Extract",
+                  "aroma": 7.5,
+                  "aroma_preparation": "Place 1 drop of anise extract on a cotton ball in a large snifter. Cover."
+                }
+              ]
+            },
+            {
+              "name": "Nutmeg",
+              "colour": "#8C292C",
+              "definition": "A wet, brown, woody, pungent, petroleum-like, heavy aromatic with a slightly lemony impression.",
+              "references": [
+                {
+                  "reference": "McCormick Ground Nutmeg",
+                  "aroma": 9,
+                  "aroma_preparation": "Place ¼ teaspoon nutmeg in a covered medium snifter. Cover."
+                }
+              ]
+            },
+            {
+              "name": "Cinnamon",
+              "colour": "#E5762E",
+              "definition": "A sweet, brown, slightly woody, slightly pungent, spicy aromatic.",
+              "references": [
+                {
+                  "reference": "McCormick Ground Cinnamon",
+                  "aroma": 13,
+                  "aroma_preparation": "Place ¼ teaspoon of cinnamon in a medium snifter. Cover."
+                }
+              ]
+            },
+            {
+              "name": "Clove",
+              "colour": "#A16C5A",
+              "definition": "A sweet, brown, spicy, pungent, floral, citrus, medicinal, and slightly minty aromatic.",
+              "references": [
+                {
+                  "reference": "Le Nez du Café no. 7 “clove” n.7",
+                  "aroma": 6.5,
+                  "aroma_preparation": "Place 1 drop of essence on a cotton ball in a large snifter. Cover."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nutty/Cocoa",
+      "colour": "#A87B64",
+      "children": [
+        {
+          "name": "Nutty",
+          "colour": "#C78869",
+          "definition": "A slightly sweet, brown, woody, oily, musty, astringent, and bitter aromatic commonly associated with nuts, seeds, beans, and grains.",
+          "references": [
+            {
+              "reference": "Le Nez du Café no. 29 “roasted hazelnuts”",
+              "aroma": 7.5,
+              "aroma_preparation": "Place 1 drop of essence on a cotton ball in a large snifter. Cover."
+            },
+            {
+              "reference": "Mixture of Diamond Sliced Almonds and Diamond Shelled Walnuts",
+              "flavor": 7.5,
+              "flavor_preparation": "Puree the almonds and walnuts separately in blenders for 45 seconds on high speed. Combine equal amounts of the chopped nuts. Serve in 1-ounce cups. Cover with a plastic lid."
+            }
+          ],
+          "children": [
+            {
+              "name": "Peanuts",
+              "colour": "#D4AD13",
+              "icon": "peanuts",
+              "definition": "A sweet, light brown, oily, somewhat musty/dusty, beany aromatic that may be slightly astringent.",
+              "references": [
+                {
+                  "reference": "Raw blanched bulk peanuts, roasted",
+                  "aroma": 8.5,
+                  "aroma_preparation": "Preheat oven to 425°F. Place raw, blanched peanuts in a single layer on a baking sheet lined with parchment paper. Roast for 10 minutes or until peanuts are medium brown in color. Chop peanuts and serve 1 tablespoon in a medium snifter. Cover.",
+                  "flavor": 7.5,
+                  "flavor_preparation": "Preheat oven to 425°F. Place raw, blanched peanuts in a single layer on a baking sheet lined with parchment paper. Roast for 10 minutes or until peanuts are medium brown in color. Serve in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Hazelnut",
+              "colour": "#9D5433",
+              "icon": "hazelnut",
+              "definition": "A woody, brown, sweet, musty/earthy, slightly cedar aromatic. May include floral, beany, oily, astringent, and bitter flavor notes.",
+              "references": [
+                {
+                  "reference": "Le Nez du Café no. 29 “roasted hazelnuts”",
+                  "aroma": 5.5,
+                  "aroma_preparation": "Place 1 drop of essence on a cotton ball in a large snifter. Cover."
+                },
+                {
+                  "reference": "McCormick Imitation Hazelnut Extract, in milk",
+                  "flavor": 3.5,
+                  "flavor_preparation": "Place ⅛ teaspoon of hazelnut extract in 1 cup of whole milk. Cover with a plastic lid."
+                },
+                {
+                  "reference": "McCormick Imitation Hazelnut Extract, in milk",
+                  "flavor": 6,
+                  "flavor_preparation": "Place ¼ teaspoon of hazelnut extract in 1 cup of whole milk. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Almond",
+              "colour": "#C89F83",
+              "icon": "almond",
+              "definition": "A sweet, light brown, woody, and buttery aromatic with floral and fruity notes that may include rose, cherry, and apricot. It is also astringent and may be slightly smoky.",
+              "references": [
+                {
+                  "reference": "Le Nez du Café no. 27 “roasted almonds”",
+                  "aroma": 7,
+                  "aroma_preparation": "Place 1 drop of essence on a cotton ball in a large snifter. Cover."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cocoa",
+          "colour": "#BB764C",
+          "definition": "A brown, sweet, dusty, musty, often bitter aromatic associated with cocoa bean, powdered cocoa and chocolate bars.",
+          "references": [
+            {
+              "reference": "Hershey’s Cocoa Powder Natural Unsweetened, in water",
+              "aroma": 7.5,
+              "aroma_preparation": "Mix ¼ teaspoon of cocoa powder with 100 milliliters of water. Serve in a medium snifter. Cover.",
+              "flavor": 5,
+              "flavor_preparation": "Mix ¼ teaspoon of cocoa powder with 100 milliliters of water. Serve in a 1-ounce cup. Cover with a plastic lid."
+            }
+          ],
+          "children": [
+            {
+              "name": "Chocolate",
+              "colour": "#692A19",
+              "icon": "chocolate",
+              "definition": "A blend of cocoa, including cocoa butter and dark roast aromatics at varying intensities.",
+              "references": [
+                {
+                  "reference": "Nestle Toll House Semi-Sweet Chocolate Morsels",
+                  "aroma": 8,
+                  "aroma_preparation": "Chop the chocolate chips and place ¼ cup in a medium snifter. Cover.",
+                  "flavor": 7.5,
+                  "flavor_preparation": "Place 1 teaspoon of chocolate in a 1-ounce cup. Cover with a plastic lid. During the tasting session, taste one chip per sample."
+                }
+              ]
+            },
+            {
+              "name": "Dark chocolate",
+              "colour": "#470603",
+              "definition": "A high-intensity blend of cocoa and cocoa butter that may include dark roast, spicy, burnt, and musty notes with increased astringency and bitterness.",
+              "references": [
+                {
+                  "reference": "Lindt Excellence 90% Cocoa Supreme Dark chocolate bar",
+                  "aroma": 6,
+                  "aroma_preparation": "Chop the chocolate and put 1 teaspoon in a medium snifter. Cover.",
+                  "flavor": 11,
+                  "flavor_preparation": "Serve three 1/2-inch squares of chocolate in a 1-ounce cup. Cover with a plastic lid."
+                },
+                {
+                  "reference": "Dove Promises Silky Smooth Dark Chocolate (individually wrapped bite-sized bars)",
+                  "flavor": 8.5,
+                  "flavor_preparation": "Serve one chocolate in snack-size Ziploc bag."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sweet",
+      "colour": "#E65832",
+      "image": "sucrose.svg",
+      "fundamental": true,
+      "definition": "A fundamental taste factor of which sucrose is typical.",
+      "references": [
+        {
+          "reference": "1.0% sucrose solution",
+          "flavor": 1,
+          "flavor_preparation": "Serve juice in a 1-ounce cup. Cover with a plastic lid."
+        }
+      ],
+      "children": [
+        {
+          "name": "Brown sugar",
+          "colour": "#D45A59",
+          "definition": "A rich, full, round, sweet aromatic impression characterized by some degree of darkness.",
+          "references": [
+            {
+              "reference": "C&H Pure Cane Sugar, Golden Brown",
+              "aroma": 6,
+              "aroma_preparation": "Place 1 teaspoon brown sugar in a medium snifter. Cover.",
+              "flavor": 5,
+              "flavor_preparation": "Mix 2 teaspoons sugar in 1 cup water. Serve in a 1-ounce cup. Cover with a plastic lid."
+            }
+          ],
+          "children": [
+            {
+              "name": "Molasses",
+              "colour": "#310C0F",
+              "definition": "Dark, caramelized top notes that may include slightly sharp, acrid, and sulfur notes characteristic of molasses.",
+              "references": [
+                {
+                  "reference": "Grandma’s Original Molasses, unsulphured",
+                  "aroma": 6.5,
+                  "aroma_preparation": "Mix 2 teaspoons of molasses in 250 milliliters of water. Serve ¼ cup in a medium snifter. Cover.",
+                  "flavor": 6.5,
+                  "flavor_preparation": "Mix 2 teaspoons of molasses in 250 milliliters of water. Serve 1 teaspoon molasses in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Maple syrup",
+              "colour": "#AE341F",
+              "definition": "A woody, sweet, caramelized, brown, slightly green aromatic associated with maple syrup.",
+              "references": [
+                {
+                  "reference": "Le Nez du Café no. 24 “maple syrup”",
+                  "aroma": 7,
+                  "aroma_preparation": "Place 1 drop of essence on a cotton ball in a large snifter. Cover."
+                },
+                {
+                  "reference": "Maple Grove Farms Pure Maple Syrup Medium Amber",
+                  "flavor": 5,
+                  "flavor_preparation": "Serve 1 teaspoon maple syrup in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Caramelized",
+              "colour": "#D78823",
+              "definition": "A round, full-bodied, medium brown, sweet aromatic associated with cooked sugars and other carbohydrates. Does not include burnt or scorched notes.",
+              "references": [
+                {
+                  "reference": "Le Nez du Café no. 25 “caramel”",
+                  "aroma": 8,
+                  "aroma_preparation": "Place 1 drop of essence on a cotton ball in a large snifter. Cover."
+                },
+                {
+                  "reference": "C&H Pure Cane Sugar, Golden Brown",
+                  "flavor": 2.5,
+                  "flavor_preparation": "Place 2 teaspoons sugar in 1 cup water. Serve 1 teaspoon in a 1-ounce cup. Cover with a plastic lid."
+                },
+                {
+                  "reference": "C&H Pure Cane Sugar, Golden Brown",
+                  "flavor": 4.5,
+                  "flavor_preparation": "Make 60% solution by dissolving 60 grams brown sugar in 1 liter water. Serve 1 teaspoon in a 1-ounce cup. Cover with a plastic lid."
+                },
+                {
+                  "reference": "Caramelized white table cane sugar",
+                  "flavor": 7.5,
+                  "flavor_preparation": "Place 1 cup white table sugar in a heavy saucepan. Cook over low-tomedium heat, stirring constantly with a wooden spoon, until sugar is melted. When it has turned light amber in color, remove from heat and pour onto wax paper. Be very careful—melted sugar is VERY HOT. Let harden. Break cooled, solidified sugar into pieces and store in a labeled airtight container. Serve a few small pieces in a 1-ounce cup. Cover with a plastic lid.",
+                }
+              ]
+            },
+            {
+              "name": "Honey",
+              "colour": "#DA5C1F",
+              "icon": "honey",
+              "definition": "Sweet, light brown, slightly spicy aromatic associated with honey.",
+              "references": [
+                {
+                  "reference": "Busy Bee Pure Clover Honey",
+                  "aroma": 6,
+                  "aroma_preparation": "Dissolve 1 tablespoon honey in 250 milliliters of hot water. Serve ¼ cup in a medium snifter. Cover.",
+                  "flavor": 6.5,
+                  "flavor_preparation": "Dissolve 1 tablespoon honey in 250 milliliters of hot water. Serve in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Vanilla",
+          "colour": "#F89A80",
+          "icon": "vanilla",
+          "definition": "A woody, slightly chemical aromatic associated with vanilla bean, which may include brown, beany, floral, and spicy notes.",
+          "references": [
+            {
+              "reference": "Le Nez du Café no. 10 “vanilla“",
+              "aroma": 2.5,
+              "aroma_preparation": "Place 2 drops of essence on a cotton ball in a large snifter. Cover."
+            },
+            {
+              "reference": "Spice Islands Bourbon Vanilla Bean",
+              "aroma": 5.5,
+              "aroma_preparation": "Place 0.5 gram chopped vanilla beans in a medium snifter. Cover."
+            },
+            {
+              "reference": "McCormick Pure Vanilla Extract, in whole milk",
+              "flavor": 3,
+              "flavor_preparation": "Stir 1/8 teaspoon of vanilla extract into ½ cup of whole milk. Serve in a 1-ounce cup. Cover with a plastic lid."
+            }
+          ]
+        },
+        {
+          "name": "Vanillin",
+          "colour": "#F37674",
+          "image": "vanilin.svg",
+          "icon": "vanillin",
+          "definition": "An extremely sweet, non-natural aromatic associated with vanilla, cotton candy, and marshmallows.",
+          "references": [
+            {
+              "reference": "Fisher Scientific Vanillin",
+              "aroma": 6,
+              "aroma_preparation": "Mix 2 grams vanillin powder into 250 milliliters of water. Place in a large snifter. Cover."
+            }
+          ]
+        },
+        {
+          "name": "Overall sweet",
+          "colour": "#E75B68",
+          "definition": "The perception of a combination of sweet taste and aromatics.",
+          "references": [
+            {
+              "reference": "Post Shredded Wheat",
+              "flavor": 1.5,
+              "flavor_preparation": "Serve 2 tablespoons in a 3.25-ounce cup. Cover with a plastic lid."
+            },
+            {
+              "reference": "General Mills Wheaties",
+              "flavor": 3,
+              "flavor_preparation": "Serve 2 tablespoons in a 3.25-ounce cup. Cover with a plastic lid."
+            },
+            {
+              "reference": "Nabisco Lorna Doone Cookies",
+              "flavor": 5,
+              "flavor_preparation": "Serve 2 cookies in a 3.25-ounce cup. Cover with a plastic lid."
+            }
+          ]
+        },
+        {
+          "name": "Sweet Aromatics",
+          "colour": "#D0545F",
+          "definition": "An aromatic associated with the impression of a sweet substance.",
+          "references": [
+            {
+              "reference": "Fisher Scientific Vanillin",
+              "aroma": 5,
+              "aroma_preparation": "Mix 0.5 grams of vanillin into 250 milliliters of water in a large snifter. Cover."
+            },
+            {
+              "reference": "Fisher Scientific Vanillin",
+              "aroma": 7,
+              "aroma_preparation": "Mix 2 grams of vanillin into 250 milliliters of water in a large snifter. Cover."
+            },
+            {
+              "reference": "Nabisco Lorna Doone cookies",
+              "aroma": 5,
+              "aroma_preparation": "Serve 2 cookies in a 3.25-ounce cup. Cover with a plastic lid."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Floral",
+      "colour": "#DA0D68",
+      "children": [
+        {
+          "name": "Black Tea",
+          "colour": "#975E6D",
+          "definition": "A somewhat brown, musty, dried plant and dried bark aromatic associated with the oxidization of tea leaves.",
+          "references": [
+            {
+              "reference": "Lipton Black Tea",
+              "aroma": 8,
+              "aroma_preparation": "Cut open 1 tea bag. Pour the tea leaves into medium snifters. Place 1 teaspoon of hot water over leaves immediately before serving.",
+              "flavor": 7,
+              "flavor_preparation": "Place 1 tea bag in 1 cup of boiling water. Brew for 5 minutes. Let cool. Serve brewed tea in a 1-ounce cup. Cover with a plastic lid."
+            }
+          ]
+        },
+        {
+          "name": "Floral",
+          "colour": "#E0719C",
+          "definition": "A sweet, light, slightly fragrant aromatic associated with fresh flowers.",
+          "references": [
+            {
+              "reference": "Welch’s 100% White Grape juice",
+              "aroma": 6,
+              "aroma_preparation": "Mix 1 part water and 1 part juice. Place ¼ cup of mixture in a medium snifter. Cover.",
+              "flavor": 5,
+              "flavor_preparation": "Mix 1 part water and 1 part juice. Serve mixure in a 1-ounce cup. Cover with a plastic lid."
+            },
+            {
+              "reference": "Carnation essence oil",
+              "aroma": 7.5,
+              "aroma_preparation": "Place 1 drop of Carnation essence oil on a cotton ball in a large snifter. Cover."
+            },
+            {
+              "reference": "Le Nez du Café n.12 “coffee blossom”",
+              "aroma": 8,
+              "aroma_preparation": "Place 1 drop of Le Nez du Café essence on a cotton ball in a large snifter. Cover."
+            }
+          ],
+          "children": [
+            {
+              "name": "Chamomile",
+              "colour": "#F99E1B",
+              "icon": "chamomile",
+              "definition": "The sweet, slightly floral/fruity, somewhat woody green associated with chamomile.",
+              "references": [
+                {
+                  "reference": "Celestial Seasonings Chamomile Tea",
+                  "aroma": 5,
+                  "aroma_preparation": "Place 1 tea bag in 1 cup of boiling water. Brew for 5 minutes. Let cool. Serve ¼ cup of the brewed tea in a medium snifter. Cover.",
+                  "flavor": 5,
+                  "flavor_preparation": "Place 1 tea bag in 1 cup of boiling water. Brew for 5 minutes. Let cool. Serve brewed tea in a 1-ounce cup. Cover with a plastic lid."
+                }
+              ]
+            },
+            {
+              "name": "Rose",
+              "colour": "#EF5A78",
+              "icon": "rose",
+              "definition": "A sweet, soft, slightly musty/dusty floral fragrance associated with fresh or dried roses.",
+              "references": [
+                {
+                  "reference": "Rose water",
+                  "aroma": 5,
+                  "aroma_preparation": "Place 2 drops of rose water on a cotton ball in a medium snifter. Cover."
+                }
+              ]
+            },
+            {
+              "name": "Jasmine",
+              "colour": "#F7F1BD",
+              "definition": "An intense, slightly pungent, sweet, floral aromatic with underlying green, musty/dusty notes.",
+              "references": [
+                {
+                  "reference": "Jasmine extract",
+                  "aroma": 8.5,
+                  "aroma_preparation": "Place 1 drop of jasmine extract on a cotton ball in a medium snifter. Cover."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
