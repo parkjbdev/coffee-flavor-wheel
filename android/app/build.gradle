@@ -86,7 +86,7 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.coffeeflavorwheel"
+    namespace 'com.parkjb.coffeewheel'
     defaultConfig {
         applicationId 'com.parkjb.coffeewheel'
         minSdkVersion rootProject.ext.minSdkVersion
