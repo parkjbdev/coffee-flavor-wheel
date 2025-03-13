@@ -1,15 +1,15 @@
 #!/bin/sh
 
+set -e
+echo "Running ci_post_clone.sh"
+
+cd ../../
+
 # Install Node, CocoaPods, and yarn using Homebrew.
 brew install node cocoapods yarn
 
 # Install dependencies
 yarn
-pod install
-
-##!/bin.bash
-set -e
-echo "Running ci_post_clone.sh"
 
 # See note above about patching for GetEnv Issue
 yarn add patch-package
