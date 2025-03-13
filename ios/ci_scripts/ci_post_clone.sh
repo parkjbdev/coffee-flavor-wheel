@@ -19,3 +19,6 @@ npx patch-package
 # This causes a crash: Error: GetEnv.NoBoolean: TRUE is not a boolean.
 # This is a workaround for that issue.
 CI="true" npx expo prebuild
+
+cd ./ios
+pod install
