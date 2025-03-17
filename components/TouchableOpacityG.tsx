@@ -32,7 +32,6 @@ const TouchableOpacityG: React.FC<TouchableOpacityGProps> = ({
     // 터치 종료 처리 함수
     const handleTouchEnd = () => {
         setTouched(false);
-        onPress();
     };
 
     return <G>
@@ -42,6 +41,7 @@ const TouchableOpacityG: React.FC<TouchableOpacityGProps> = ({
             stroke="#FFFFFF"
             strokeWidth={1}
             opacity={touched ? 0.7 : 1}
+            onPress={onPress}
             onPressIn={handleTouchStart}
             onPressOut={handleTouchEnd}
         />
