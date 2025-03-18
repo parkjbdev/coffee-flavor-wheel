@@ -164,7 +164,7 @@ const Index = ({ flavorData = scaa2016 }: { flavorData: ScaaFlavor }) => {
           <TouchableOpacity
             style={styles.zoomButton}
             onPress={() => {
-              const newScale = Math.min(scale.value + 0.1, 3);
+              const newScale = Math.min(scale.value + 0.5, 3);
               scale.value = withSpring(newScale, { damping: 15 });
             }}
           >
@@ -173,7 +173,7 @@ const Index = ({ flavorData = scaa2016 }: { flavorData: ScaaFlavor }) => {
           <TouchableOpacity
             style={styles.zoomButton}
             onPress={() => {
-              const newScale = Math.max(0.5, scale.value - 0.1);
+              const newScale = Math.max(1, scale.value - 0.5);
               scale.value = withSpring(newScale, { damping: 15 });
             }}
           >

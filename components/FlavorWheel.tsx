@@ -55,7 +55,7 @@ const FlavorWheel = ({ flavorData, WHEEL_SIZE, CENTER_RADIUS }: { flavorData: Sc
   const [modalVisible, setModalVisible] = useState(false);
 
   // SVG 크기를 키워서 모든 내용이 보이도록 함
-  const viewBoxSize = WHEEL_SIZE * 3;
+  const viewBoxSize = WHEEL_SIZE * 2; // 원래 계산대로 2배로 유지
   const centerX = viewBoxSize / 2;
   const centerY = viewBoxSize / 2;
 
@@ -186,8 +186,8 @@ const FlavorWheel = ({ flavorData, WHEEL_SIZE, CENTER_RADIUS }: { flavorData: Sc
   return (
     <>
       <Svg
-        width={WHEEL_SIZE * 4}
-        height={WHEEL_SIZE * 4}
+        width="100%"
+        height="100%"
         viewBox={`0 0 ${viewBoxSize} ${viewBoxSize}`}
       >
         {/* 모든 레이어 렌더링 */}
@@ -222,7 +222,6 @@ const FlavorWheel = ({ flavorData, WHEEL_SIZE, CENTER_RADIUS }: { flavorData: Sc
           Flavor Wheel
         </SvgText>
       </Svg>
-
 
       {!!selectedFlavor && (
         <DetailModal
