@@ -1,6 +1,6 @@
-import getTextColor from "@/utils/getTextColor";
 import React, { useState } from "react";
 import { Path, G, Text } from "react-native-svg"
+import getTextColor from "@/utils/getTextColor";
 
 interface TouchableOpacityGProps {
     arcPath: string;
